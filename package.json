@@ -1,0 +1,15 @@
+{
+  "name": "ts-openfin-example",
+  "version": "1.0.0",
+  "description": "Quick example of how to launch an openfin environment with a dynamically created Manifest file.",
+  "main": "dist/connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Phil Vogt",
+  "license": "ISC",
+  "dependencies": {
+    "openfin-adapter": "^22.65.4"
+  }
+}
